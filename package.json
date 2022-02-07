@@ -6,7 +6,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "BASE_URL=/test-multisite-gh-pages/storybook/ build-storybook"
   },
   "dependencies": {
     "react": "^17.0.2",
