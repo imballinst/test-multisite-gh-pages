@@ -9,7 +9,7 @@ const config = {
   title: "My Site",
   tagline: "Dinosaurs are cool",
   url: "https://imballinst.github.io",
-  baseUrl: "/test-multisite-gh-pages/docusaurus/",
+  baseUrl: "/test-multisite-gh-pages/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
