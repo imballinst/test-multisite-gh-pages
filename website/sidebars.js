@@ -19,8 +19,7 @@ const sidebars = {
     {
       type: "link",
       label: "Storybook",
-      href:
-        "https://imballinst.github.io/test-multisite-gh-pages/docusaurus/storybook",
+      href: "https://imballinst.github.io/test-multisite-gh-pages/storybook",
     },
   ],
 
